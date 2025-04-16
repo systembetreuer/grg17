@@ -117,29 +117,6 @@
       }
     },
     {
-      "Id": "GIMP.GIMP.3",
-      "Name": "GIMP",
-      "Version": "3.0.2",
-      "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
       "Id": "Google.Chrome",
       "Name": "Google Chrome",
       "Version": "134.0.6998.36",
@@ -235,29 +212,6 @@
       "Id": "IrfanSkiljan.IrfanView.PlugIns",
       "Name": "IrfanView PlugIns",
       "Version": "4.70",
-      "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "MiKTeX.MiKTeX",
-      "Name": "MiKTeX",
-      "Version": "24.1",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
