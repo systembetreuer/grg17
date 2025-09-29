@@ -1,0 +1,56 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "Anaconda.Anaconda3",
+      "Name": "Anaconda3",
+      "Version": "2025.06-1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "ArduinoSA.IDE.stable",
+      "Name": "Arduino IDE",
+      "Version": "2.3.6",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "JetBrains.PyCharm.Community",
+      "Name": "PyCharm Community Edition",
+      "Version": "2025.2.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "LWKS.Lightworks",
+      "Name": "Lightworks",
+      "Version": "2025.1.152194",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "MITMediaLab.Scratch.3",
+      "Name": "Scratch 3",
+      "Version": "3.29.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VisualStudio.2022.Enterprise",
+      "Name": "Visual Studio Enterprise 2022",
+      "Version": "17.14.16",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Skillbrains.Lightshot",
+      "Name": "Lightshot",
+      "Version": "5.5.0.7",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": []
+}
