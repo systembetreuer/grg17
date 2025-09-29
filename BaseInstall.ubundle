@@ -1,444 +1,161 @@
 {
-  "export_version": 2.1,
+  "export_version": 3,
   "packages": [
     {
       "Id": "7zip.7zip",
       "Name": "7-Zip",
       "Version": "24.09",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "Adobe.Acrobat.Reader.64-bit",
       "Name": "Adobe Acrobat Reader (64-bit)",
       "Version": "25.001.20435",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "Audacity.Audacity",
       "Name": "Audacity",
       "Version": "3.7.1",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "BlenderFoundation.Blender",
       "Name": "blender",
       "Version": "4.3.2",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "Freeplane.Freeplane",
       "Name": "Freeplane",
       "Version": "1.12.9",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "Google.Chrome",
       "Name": "Google Chrome",
       "Version": "134.0.6998.36",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "Google.EarthPro",
       "Name": "Google Earth Pro",
       "Version": "7.3.6.10201",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "Inkscape.Inkscape",
       "Name": "Inkscape",
       "Version": "1.4",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "IrfanSkiljan.IrfanView",
       "Name": "IrfanView",
       "Version": "4.70",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "IrfanSkiljan.IrfanView.PlugIns",
       "Name": "IrfanView PlugIns",
       "Version": "4.70",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.PowerShell",
+      "Name": "PowerShell",
+      "Version": "7.5.3.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
     },
     {
       "Id": "Microsoft.VisualStudio.2022.Community",
       "Name": "Visual Studio Community 2022",
       "Version": "17.13.2",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VisualStudio.2022.Enterprise",
+      "Name": "Visual Studio Enterprise 2022",
+      "Version": "17.14.16",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VisualStudioCode",
+      "Name": "Microsoft Visual Studio Code",
+      "Version": "1.104.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
     },
     {
       "Id": "Mozilla.Firefox.ESR.de",
       "Name": "Mozilla Firefox ESR (de)",
       "Version": "128.8.0",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "Notepad\u002B\u002B.Notepad\u002B\u002B",
       "Name": "Notepad\u002B\u002B",
       "Version": "8.7.8",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "Oracle.JavaRuntimeEnvironment",
       "Name": "Java 8",
       "Version": "8.0.4410.7",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "TheDocumentFoundation.LibreOffice",
       "Name": "LibreOffice",
       "Version": "25.2.1.2",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "TheDocumentFoundation.LibreOffice.HelpPack",
       "Name": "LibreOffice Help Pack",
       "Version": "25.2.1.2",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "VideoLAN.VLC",
       "Name": "VLC media player",
       "Version": "3.0.21",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "WinMerge.WinMerge",
       "Name": "WinMerge",
       "Version": "2.16.48",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     },
     {
       "Id": "dotPDN.PaintDotNet",
       "Name": "paint.net",
       "Version": "5.1.4",
       "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
+      "ManagerName": "Winget"
     }
   ],
-  "incompatible_packages_info": "Incompatible packages cannot be installed from WingetUI, but they have been listed here for logging purposes.",
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
   "incompatible_packages": []
 }
